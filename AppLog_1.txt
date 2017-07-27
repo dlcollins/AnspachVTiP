@@ -1,0 +1,426 @@
+IP Installed 192.168.1.205
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*2003  Lines beyond limit
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+*1000 Could not open Video Source
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
+*5005 Socket Read shows a disconnect
+Server Poll Incorrect Rate
